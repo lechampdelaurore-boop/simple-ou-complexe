@@ -1,6 +1,6 @@
 // Garde l'appli disponible hors ligne.
 // Changer CACHE à chaque mise à jour des fichiers listés ci-dessous.
-var CACHE = 'simple-ou-complexe-v1';
+var CACHE = 'simple-ou-complexe-v2';
 var FILES = [
   './',
   './index.html',

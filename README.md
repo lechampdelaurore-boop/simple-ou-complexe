@@ -14,7 +14,7 @@ Une bonne réponse découpe la phrase en blocs, une partie par verbe. Une erreur
 
 La 2e activité, **Assembler**, relie deux phrases simples avec un séparateur qui va avec le sens (*mais* = le contraire, *car* = la cause, *donc* = la conséquence…). Sa variante **Couper** fait l'inverse.
 
-Tout reste sur l'appareil (rien n'est envoyé sur Internet). L'appli marche hors ligne et s'installe sur l'écran d'accueil.
+Les progrès restent sur l'appareil. Seul un compteur de visites anonyme (GoatCounter) compte les ouvertures de l'appli : pas de cookie, pas de nom, rien sur les progrès. L'appli marche hors ligne et s'installe sur l'écran d'accueil.
 
 ## Les niveaux
 

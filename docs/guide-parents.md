@@ -38,6 +38,6 @@ Lien discret en bas de l'accueil. Vous y trouvez :
 
 ## Bon à savoir
 
-- Rien n'est envoyé sur Internet : les progrès restent sur l'appareil. Changer d'appareil repart de zéro.
+- Les progrès restent sur l'appareil, rien sur eux n'est envoyé sur Internet. Un compteur de visites anonyme (GoatCounter) compte seulement les ouvertures de l'appli : pas de cookie, pas de nom. Changer d'appareil repart de zéro.
 - La voix utilise celle du téléphone. S'il n'a pas de voix française, l'appli marche sans voix.
 - Les mots de la 6e (*proposition, juxtaposée, coordonnée, subordonnée*) ne sont qu'au niveau bonus.
